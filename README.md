@@ -1,2 +1,2 @@
 # djoekerz
-Anti Block killer Fajardjoekerz
+Belajar skrip coding 
